@@ -12,10 +12,19 @@ Here is the test result when n = 100
 
 
 # question 4: Interacting with Chain
+filefolder: question_4
+using the abi and bin file of the contract to generate the go file : Token.go
+
+then use golang to interact with contract
+
+the result is
+
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/13994404/154023624-bc35c75f-572b-450b-af54-cf9cfa6fe5b2.png">
 
 
 
 # question 5: Utility Contract
 
 <img width="838" alt="image" src="https://user-images.githubusercontent.com/13994404/154013279-a1fe60fc-1376-47d0-8917-c31153a452f3.png">
-<img width="838" alt="image" src="https://user-images.githubusercontent.com/13994404/154013324-7678f962-adec-409b-8a6f-076e4adf6f97.png">
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/13994404/154023829-fac7de04-86ab-4456-a0a3-51e995b1b248.png">
+
