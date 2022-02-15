@@ -1,6 +1,6 @@
 # salad-ventures-challenges
 
-only gave the answer of the question No. 1,4,5
+As my backgroud is backend engineer, I only gave the answer of the question No. 1,4,5.
 
 # question 1: Three ways to sum n
 file: 1_three_ways_to_sum_n.go
