@@ -26,4 +26,5 @@ the result is
 # question 5: Utility Contract
 
 <img width="838" alt="image" src="https://user-images.githubusercontent.com/13994404/154013279-a1fe60fc-1376-47d0-8917-c31153a452f3.png">
-<img width="838" alt="image" src="https://user-images.githubusercontent.com/13994404/154013324-7678f962-adec-409b-8a6f-076e4adf6f97.png">
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/13994404/154023829-fac7de04-86ab-4456-a0a3-51e995b1b248.png">
+
