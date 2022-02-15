@@ -12,6 +12,14 @@ Here is the test result when n = 100
 
 
 # question 4: Interacting with Chain
+filefolder: question_4
+using the abi and bin file of the contract to generate the go file : Token.go
+
+then use golang to interact with contract
+
+the result is
+
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/13994404/154023624-bc35c75f-572b-450b-af54-cf9cfa6fe5b2.png">
 
 
 
